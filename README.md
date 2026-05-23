@@ -90,7 +90,7 @@ and payment method usage.
 
 ## Key Findings
 
-- Credit cards dominate both order volume and average purchase value.
+- Credit card transactions predominate in both order volume and average purchase value.
 
 - Boleto payments are widely used for mid-range purchases.
 
