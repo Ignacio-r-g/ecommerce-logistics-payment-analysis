@@ -86,7 +86,7 @@ This dashboard analyzes customer payment behavior,
 order value patterns,
 and payment method usage.
 
-![dashboard_payments](images/.png)
+![dashboard_payments](images/dashboard_payments.png)
 
 ## Key Findings
 
